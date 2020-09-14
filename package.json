@@ -12,10 +12,7 @@
     "cross-origin",
     "IE9"
   ],
-  "author": {
-    "name": "Hyungsuk Choi",
-    "email": "18choi18@gmail.com",
-  },
+  "author": "Hyungsuk Choi(18choi18@gmail.com)",
   "license": "ISC",
   "repository": {
     "type": "git",
