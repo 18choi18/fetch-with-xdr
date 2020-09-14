@@ -1,6 +1,6 @@
 {
   "name": "fetch-with-xdr",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Using XDomainRequest with Fetch API",
   "main": "index.js",
   "scripts": {
