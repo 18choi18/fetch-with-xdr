@@ -1,0 +1,17 @@
+{
+  "name": "fetch-with-xdr",
+  "version": "0.0.1",
+  "description": "Using XDomainRequest with Fetch API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "XDomainRequest",
+    "fetch",
+    "cross-origin",
+    "IE9"
+  ],
+  "author": "Hyungsuk Choi",
+  "license": "ISC"
+}
