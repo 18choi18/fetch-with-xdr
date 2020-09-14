@@ -12,6 +12,13 @@
     "cross-origin",
     "IE9"
   ],
-  "author": "Hyungsuk Choi",
-  "license": "ISC"
+  "author": {
+    "name": "Hyungsuk Choi",
+    "email": "18choi18@gmail.com",
+  },
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/18choi18/fetch-with-xdr"
+  }
 }
